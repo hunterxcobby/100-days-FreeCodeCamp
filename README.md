@@ -1,2 +1,1 @@
-# 100-days-FreeCodeCamp
-This repository is dedicated for projects and progress log in freecodecamp for 100 days
+# I have started a 100 days of Free Code Camp Challenge
