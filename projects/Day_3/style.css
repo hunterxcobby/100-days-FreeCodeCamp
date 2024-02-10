@@ -62,6 +62,9 @@ h1, h2 {
 
 /* FOOTER */
 
-footer{
+footer {
   font-size: 14px;
+}
+a {
+  color: black;
 }
