@@ -35,6 +35,10 @@ hr {
   border-color: brown;
 }
 
+.bottom-line {
+  margin-top: 25px;
+}
+
 h1, h2 {
   font-family: Impact, serif;
 }
@@ -43,7 +47,7 @@ h1, h2 {
   display: inline-block;
   margin-top: 5px;
   margin-bottom: 5px;
-  font-size: 18px
+  font-size: 18px;
 }
 
 .flavor, .dessert {
