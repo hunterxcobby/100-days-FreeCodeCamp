@@ -11,6 +11,8 @@ h1, h2, p {
   background-color: burlywood;
   margin-left: auto;
   margin-right: auto;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 .item p {
@@ -21,7 +23,6 @@ h1, h2, p {
   text-align: left;
   width: 75%;
 }
-
 
 .price {
   text-align: right;
