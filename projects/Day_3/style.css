@@ -75,5 +75,9 @@ a:visited {
 }
 
 a:hover {
-  color: brown
+  color: brown;
+}
+
+a:active {
+  color:white;
 }
