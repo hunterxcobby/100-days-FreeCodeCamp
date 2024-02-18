@@ -14,10 +14,18 @@ body {
   }
   
   form {
-    margin: 0 auto;
-    max-width: 500px;
     width: 60vw;
+    max-width: 500px;
     min-width: 300px;
+    margin: 0 auto;
+  }
+  
+  fieldset {
+    border: 0;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    padding-left: 0;
+    padding-right: 0;
   }
   
   label {
