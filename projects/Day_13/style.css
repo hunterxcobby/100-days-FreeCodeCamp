@@ -44,7 +44,9 @@ body {
   
   input, textarea {
     background-color: #0a0a23;
-    border: 1px solid #0a0a23;
+    border: 1px solid hsl(240, 56%, 9%);
+    color: #ffffff;
+    min-height: 2em;
   }
   
   .inline {
