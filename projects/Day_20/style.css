@@ -33,8 +33,12 @@ div {
 #name, #email , #number {
     display: block;
     margin: 0 auto;
-    width: 80%;
+    min-width: 300px;
     margin-bottom: 15px;
+}
+
+#name-label {
+    
 }
 
 #survey-form {
